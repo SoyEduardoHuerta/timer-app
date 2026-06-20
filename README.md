@@ -1,6 +1,6 @@
 ![image alt](https://github.com/SoyEduardoHuerta/timer-app/blob/41ce6e04cc3fccd890f953be144c4fa8a8e8b1d5/preview-timer-app.jpg)
 
-## Timer App
+# Timer App
 
 Timer application developed with HTML, CSS and JavaScript.
 
