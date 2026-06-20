@@ -22,7 +22,7 @@ Timer application developed with HTML, CSS and JavaScript.
 
 ## Purpose
 
-This project was developed to practice JavaScript functions, timing events and user interaction.
+This project was developed to practice JavaScript functions.
 
 ## Credits
 
